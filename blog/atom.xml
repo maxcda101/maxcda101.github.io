@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maxcda101.github.io/blog</id>
     <title>Price Action at Support &amp; Resistance Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2021-06-05T15:28:36.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://maxcda101.github.io/blog"/>
     <subtitle>Price Action at Support &amp; Resistance Blog</subtitle>
     <icon>https://maxcda101.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Giới thiệu]]></title>
+        <id>1</id>
+        <link href="https://maxcda101.github.io/blog/1"/>
+        <updated>2021-06-05T15:28:36.226Z</updated>
+        <summary type="html"><![CDATA[12 YEAR ANNIVERSARY OF PASR ON FOREX FACTORY]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
