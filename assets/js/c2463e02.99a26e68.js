@@ -1,1 +1,0 @@
-(self.webpackChunkpasr=self.webpackChunkpasr||[]).push([[477],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"5 giai \u0111o\u1ea1n c\u1ee7a trader","permalink":"/blog/2"},{"title":"Gi\u1edbi thi\u1ec7u","permalink":"/blog/1"}]}')}}]);
