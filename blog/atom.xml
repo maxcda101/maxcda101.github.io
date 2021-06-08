@@ -9,16 +9,23 @@
     <icon>https://maxcda101.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Giới thiệu]]></title>
-        <id>1</id>
-        <link href="https://maxcda101.github.io/blog/1"/>
+        <id>2</id>
+        <link href="https://maxcda101.github.io/blog/2"/>
         <updated>2021-10-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Strat's PASR Long Term, Stress Free Trading]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[5 giai đoạn của trader]]></title>
-        <id>2</id>
-        <link href="https://maxcda101.github.io/blog/2"/>
+        <id>1</id>
+        <link href="https://maxcda101.github.io/blog/1"/>
         <updated>2021-09-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[5 Giai đoạn để trở thành trader có lợi nhuận ổn định]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PASR và Time Frame - Symbols]]></title>
+        <id>3</id>
+        <link href="https://maxcda101.github.io/blog/3"/>
+        <updated>2021-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Phương pháp PASR hoạt động trên mọi công cụ tài chính được giao dịch tự do vào bất kỳ khung thời gian nào.]]></summary>
     </entry>
 </feed>

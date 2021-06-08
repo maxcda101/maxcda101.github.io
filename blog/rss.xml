@@ -9,17 +9,24 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Giới thiệu]]></title>
-            <link>https://maxcda101.github.io/blog/1</link>
-            <guid>1</guid>
+            <link>https://maxcda101.github.io/blog/2</link>
+            <guid>2</guid>
             <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Strat's PASR Long Term, Stress Free Trading]]></description>
         </item>
         <item>
             <title><![CDATA[5 giai đoạn của trader]]></title>
-            <link>https://maxcda101.github.io/blog/2</link>
-            <guid>2</guid>
+            <link>https://maxcda101.github.io/blog/1</link>
+            <guid>1</guid>
             <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[5 Giai đoạn để trở thành trader có lợi nhuận ổn định]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PASR và Time Frame - Symbols]]></title>
+            <link>https://maxcda101.github.io/blog/3</link>
+            <guid>3</guid>
+            <pubDate>Wed, 29 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Phương pháp PASR hoạt động trên mọi công cụ tài chính được giao dịch tự do vào bất kỳ khung thời gian nào.]]></description>
         </item>
     </channel>
 </rss>
