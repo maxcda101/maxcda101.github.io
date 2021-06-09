@@ -23,10 +23,17 @@
         </item>
         <item>
             <title><![CDATA[PASR và Time Frame - Symbols]]></title>
-            <link>https://maxcda101.github.io/blog/3</link>
-            <guid>3</guid>
+            <link>https://maxcda101.github.io/blog/2</link>
+            <guid>2</guid>
             <pubDate>Wed, 29 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Phương pháp PASR hoạt động trên mọi công cụ tài chính được giao dịch tự do vào bất kỳ khung thời gian nào.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Lộ trình học tập]]></title>
+            <link>https://maxcda101.github.io/blog/3</link>
+            <guid>3</guid>
+            <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Toàn bộ Thread này là lộ trình học tập - The Path of Learning]]></description>
         </item>
     </channel>
 </rss>
